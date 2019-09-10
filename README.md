@@ -25,6 +25,8 @@ tdsi fri pragmaticstudio-unpacked-multi-player-bingo
 tdsi everyday krishnamurti-book-of-life
 tdsi weekend udemy-building-a-ruby-on-rails-application-with-neo4j
 tdsi weekend udemy-learn-to-build-apps-using-neo4j
+tdsi weekday project-inmov-obras
+tdsi weekend udemy-learning-path-elixir
 tdss
 tdyia
 ```
