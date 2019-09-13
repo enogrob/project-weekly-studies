@@ -16,19 +16,26 @@ Learn everything you need to about the subject of this `Project`.
 ## Topics
 ```
 tdyea
-tdsi mon,wed ebook-elixir-cookbook
-tdsi mon,wed pragmaticstudio-developing-with-elixir-otp
-tdsi tue,thu ebook-learning-vuejs
+tdsi mon udemy-learning-path-elixir
+tdsi wed,fri pragmaticstudio-developing-with-elixir-otp
 tdsi tue,thu pragmaticstudio-vuejs-rails
-tdsi fri ebook-programming-phoenix
-tdsi fri pragmaticstudio-unpacked-multi-player-bingo
-tdsi everyday krishnamurti-book-of-life
+tdsi weekend ebook-elixir-cookbook
 tdsi weekend udemy-building-a-ruby-on-rails-application-with-neo4j
 tdsi weekend udemy-learn-to-build-apps-using-neo4j
-tdsi weekday project-inmov-obras
-tdsi weekend udemy-learning-path-elixir
+tdsi everyday krishnamurti-book-of-life
 tdss
 tdyia
+```
+```
+tdyea
+tdsi mon ebook-erlang-programming
+tdsi wed ebook-elixir-cookbook
+tdsi tue,thu ebook-learning-vuejs
+tdsi fri ebook-the-rails-4-way
+tdsi weekday project-inmov-obras
+tdss
+tdyia
+
 ```
 ```
 mon tue wed thu fri sat sun  start        stop
