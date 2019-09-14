@@ -20,8 +20,7 @@ tdsi mon udemy-learning-path-elixir
 tdsi wed,fri pragmaticstudio-developing-with-elixir-otp
 tdsi tue,thu pragmaticstudio-vuejs-rails
 tdsi weekend ebook-neo4j-cookbook
-tdsi sun udemy-building-a-ruby-on-rails-application-with-neo4j
-tdsi sat udemy-learn-to-build-apps-using-neo4j
+tdsi weekend udemy-building-a-ruby-on-rails-application-with-neo4j
 tdsi everyday krishnamurti-book-of-life
 tdss
 tdyia
