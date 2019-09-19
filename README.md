@@ -22,6 +22,10 @@ tdsi tue,thu pragmaticstudio-vuejs-rails
 tdsi weekend graphacademy-introduction-to-neo4j
 tdsi weekend udemy-building-a-ruby-on-rails-application-with-neo4j
 tdsi everyday krishnamurti-book-of-life
+tdsi mon ebook-erlang-programming
+tdsi wed ebook-elixir-cookbook
+tdsi tue,thu ebook-learning-vuejs
+tdsi fri ebook-the-rails-4-way
 tdss
 tdyia
 ```
