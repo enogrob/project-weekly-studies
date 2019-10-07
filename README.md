@@ -27,9 +27,9 @@ tdyia
 ```
 tdyea
 tdsi mon ebook-erlang-programming
-tdsi wed ebook-elixir-cookbook
+tdsi wed,fri ebook-elixir-cookbook
 tdsi tue,thu tutorialspoint-vuejs
-tdsi fri ebook-the-rails-4-way
+tdsi weekday ebook-the-rails-4-way
 tdsi weekday project-inmov-obras
 tdss
 tdyia
