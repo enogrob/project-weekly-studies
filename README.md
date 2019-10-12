@@ -16,10 +16,9 @@ Learn everything you need to about the subject of this `Project`.
 ## Topics
 ```
 tdyea
-tdsi sat udemy-building-a-ruby-on-rails-application-with-neo4j
 tdsi sat udemy-learning-path-elixir
 tdsi sun pragmaticstudio-developing-with-elixir-otp
-tdsi sun udemy-angularjs-reactjs-vuejs-quickstart-comparison
+tdsi weekend udemy-angularjs-reactjs-vuejs-quickstart-comparison
 tdsi everyday krishnamurti-book-of-life
 tdss
 tdyia
@@ -28,8 +27,7 @@ tdyia
 tdyea
 tdsi mon ebook-erlang-programming
 tdsi wed,fri ebook-elixir-cookbook
-tdsi tue,thu tutorialspoint-vuejs
-tdsi weekday ebook-the-rails-4-way
+tdsi tue,thu ebook-the-rails-4-way
 tdsi weekday project-inmov-obras
 tdss
 tdyia
