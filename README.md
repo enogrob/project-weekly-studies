@@ -26,8 +26,10 @@ tdyia
 ```
 tdyea
 tdsi mon ebook-erlang-programming
-tdsi wed,fri ebook-elixir-cookbook
-tdsi tue,thu ebook-the-rails-4-way
+tdsi tue ebook-vujs-handbook
+tdsi wed ebook-elixir-cookbook
+tdsi thu ebook-sveltejs-handbook
+tdsi fri ebook-the-rails-4-way
 tdsi weekday project-inmov-obras
 tdss
 tdyia
@@ -35,13 +37,10 @@ tdyia
 ```
 ```
 mon tue wed thu fri sat sun  start        stop
- x | x | x | x | x | x | x |            |            | krishnamurti-book-of-life
-   |   |   |   | x |   |   |            |            | ebook-programming-phoenix
-   |   |   |   | x |   |   |            |            | pragmaticstudio-unpacked-multi-player-bingo
-   | x |   | x |   |   |   |            |            | pragmaticstudio-vuejs-rails
- x |   | x |   |   |   |   |            |            | ebook-elixir-cookbook
-   | x |   | x |   |   |   |            |            | ebook-learning-vuejs
-   |   |   |   |   | x | x |            |            | udemy-building-a-ruby-on-rails-application-with-neo4j
-   |   |   |   |   | x | x |            |            | udemy-learn-to-build-apps-using-neo4j
- x |   | x |   |   |   |   |            |            | pragmaticstudio-developing-with-elixir-otp
- ```
+   |   | x |   |   |   |   |            |            | ebook-elixir-cookbook
+ x |   |   |   |   |   |   |            |            | ebook-erlang-programming
+   |   |   |   | x |   |   |            |            | ebook-the-rails-4-way
+ x | x | x | x | x |   |   |            |            | project-inmov-obras
+   | x |   |   |   |   |   |            |            | ebook-vuejs-handbook
+   |   |   | x |   |   |   |            |            | ebook-sveltejs-handbook
+ ```
